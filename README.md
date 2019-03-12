@@ -16,12 +16,51 @@ This project aims to create a simple demo to demonsrtate the In Room Control cap
 * Ament library version: 999
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, complete the following steps:
 
 ### Step 1
-Clone the repository using the following comand
+Create a User on the endpoint. To do this, you need to access the admin panel of the device. Add a new User with username and password as **integrator**. 
+![alt text](https://user-images.githubusercontent.com/12582569/54212031-53d47c00-4508-11e9-86cc-f5fc331c0a81.png
+)
+
+### Step 2
+Clone the repository using the following command
 ```
 $ cd ../lorem
 $ npm install
 $ npm start
 ```
+
+### Step 3
+Upload the VCF to the system
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
+
+### Step 4
+Set up the Bulbs using the App
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
+
+### Step 5
+Make the change to IP address
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
+
+### Step 6
+Run the code 
+```
+$ cd ../lorem
+$ npm install
+$ npm start
+```
+
+
