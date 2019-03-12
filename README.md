@@ -52,19 +52,15 @@ $ npm start
 ```
 
 ### Step 5
-Make the change to IP address
+Make the change to IP address in the code.
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+const ipAddress = "ssh://ENDPOINT_IPADDRESS"
 ```
 
 ### Step 6
 Run the code 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+node control.js
 ```
 
 
