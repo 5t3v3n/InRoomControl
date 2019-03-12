@@ -6,7 +6,8 @@
 * [Setup](#setup)
 
 ## General info
-This project aims to create a simple demo to demonsrtate the In Room Control capabilities of a Cisco Telepresence Endpoint.. The following diargam shows more information on the set up for the same.  
+This project aims to create a simple demo to demonsrtate the In Room Control capabilities of a Cisco Telepresence Endpoint.. The following diargam shows more information on the set up for the same. 
+
 ![alt text](https://user-images.githubusercontent.com/12582569/54210337-4e296700-4505-11e9-92e1-c3cf854d520d.png
 )
 
@@ -20,6 +21,7 @@ To run this project, complete the following steps:
 
 ### Step 1
 Create a User on the endpoint. To do this, you need to access the admin panel of the device. Add a new User with username and password as **integrator**. 
+
 ![alt text](https://user-images.githubusercontent.com/12582569/54212031-53d47c00-4508-11e9-86cc-f5fc331c0a81.png
 )
 
