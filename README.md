@@ -44,12 +44,11 @@ Upload the XML File **roomcontrolconfig.xml** available in the repository to the
 
 
 ### Step 4
-Set up the Bulbs using the App
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+Set up the Bulb using the App. The detail procedure for the same can be found here:  
+https://www.youtube.com/watch?v=tYiz8AegtQ4
+
+Be sure to enable **Developer Mode** in the settings for the bulb on the mobile app.
+
 
 ### Step 5
 Make the change to IP address in the **control.js**.
