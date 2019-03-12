@@ -22,8 +22,7 @@ To run this project, complete the following steps:
 ### Step 1
 Create a User on the endpoint. To do this, you need to access the admin panel of the device. Add a new User with username and password as **integrator**. 
 
-![alt text](https://user-images.githubusercontent.com/12582569/54212031-53d47c00-4508-11e9-86cc-f5fc331c0a81.png
-)
+![alt text](https://user-images.githubusercontent.com/12582569/54212591-2e943d80-4509-11e9-8978-28a5e3188387.png)
 
 ### Step 2
 Clone the repository using the following command
