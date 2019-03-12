@@ -29,7 +29,7 @@ Create a User on the endpoint. To do this, you need to access the admin panel of
 ### Step 2
 Clone the repository using the following command
 ```
-$ cd ../lorem
+$ git clone https://github.com/5t3v3n/InRoomControl.git
 ```
 
 ### Step 3
