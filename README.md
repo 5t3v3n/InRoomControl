@@ -33,7 +33,7 @@ $ git clone https://github.com/5t3v3n/InRoomControl.git
 ```
 
 ### Step 3
-Upload the VCF to the system
+Upload the XML File **roomcontrolconfig.xml** available in the repository to the system. To do so, visit the admin panel of the device. Under **Integrations**, click **In-room Control** and launch the Editor.
 ```
 $ cd ../lorem
 $ npm install
