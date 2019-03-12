@@ -22,6 +22,7 @@ Project is created with:
 ## Setup
 To run this project, install it locally using npm:
 
+### Step 1
 ```
 $ cd ../lorem
 $ npm install
