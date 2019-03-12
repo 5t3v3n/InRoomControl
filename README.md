@@ -2,11 +2,16 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Prerequisite](#Prerequisite)
 * [Setup](#setup)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
+
+## Prerequisite
+* Lorem version: 12.3
+* Ipsum version: 2.33
+* Ament library version: 999
 	
 ## Technologies
 Project is created with:
