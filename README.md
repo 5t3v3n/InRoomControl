@@ -57,10 +57,17 @@ Make the change to IP address in the **control.js**.
 const ipAddress = "ssh://ENDPOINT_IPADDRESS"
 ```
 
+
 ### Step 6
+Install Dependencies
+```
+$ npm install
+```
+
+### Step 7
 Run the code 
 ```
-node control.js
+$ node control.js
 ```
 
 
