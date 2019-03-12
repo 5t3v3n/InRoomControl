@@ -1,4 +1,4 @@
-# InRoomControl
+# In-Room Control
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,10 +12,13 @@ This project aims to create a simple demo to demonsrtate the In Room Control cap
 ![alt text](https://user-images.githubusercontent.com/12582569/54210337-4e296700-4505-11e9-92e1-c3cf854d520d.png
 )
 
+## Components
+* Xiaomi Yeelight Smart Light: https://www.amazon.in/Xiaomi-Yeelight-Dimmable-Changing-Compatible/dp/B072HLHPTV?tag=googinhydr18418-21&gclid=Cj0KCQiAxs3gBRDGARIsAO4tqq1mrPe32-JDepF7JKP4Ub1NJB7q2lmux4pvkQKatbfWHQqB0_hIhzoaAoN6EALw_wcB
+* Any Cisco Device with a Touch 10 panel or a Dx80. For more information on supported devices visit: https://help.webex.com/en-us/n18glho/In-Room-Controls-and-Use-of-an-External-Video-Switch-with-Room-Devices
+
+
 ## Prerequisite
 * NodeJS installed on your system: https://nodejs.org/en/download/
-* 
-* Ament library version: 999
 	
 ## Setup
 To run this project, complete the following steps:
@@ -33,12 +36,10 @@ $ git clone https://github.com/5t3v3n/InRoomControl.git
 ```
 
 ### Step 3
-Upload the XML File **roomcontrolconfig.xml** available in the repository to the system. To do so, visit the admin panel of the device. Under **Integrations**, click **In-room Control** and launch the Editor.
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+Upload the XML File **roomcontrolconfig.xml** available in the repository to the system. To do so, visit the admin panel of the device. Under **Integrations**, click **In-room Control** and launch the Editor. Upload the XML file to the endpoint.
+
+![alt text](https://user-images.githubusercontent.com/12582569/54215654-4b7f3f80-450e-11e9-9217-fb998c876d8f.png)
+
 
 ### Step 4
 Set up the Bulbs using the App
