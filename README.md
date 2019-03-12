@@ -52,7 +52,7 @@ $ npm start
 ```
 
 ### Step 5
-Make the change to IP address in the code.
+Make the change to IP address in the **control.js**.
 ```
 const ipAddress = "ssh://ENDPOINT_IPADDRESS"
 ```
