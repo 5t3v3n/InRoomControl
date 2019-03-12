@@ -14,9 +14,9 @@ This project aims to create a simple demo to demonsrtate the In Room Control cap
 )
 
 ## Components
-* Xiaomi Yeelight Smart Light:\
+* Xiaomi Yeelight Smart Light:  
 https://www.amazon.in/Xiaomi-Yeelight-Dimmable-Changing-Compatible/dp/B072HLHPTV?tag=googinhydr18418-21&gclid=Cj0KCQiAxs3gBRDGARIsAO4tqq1mrPe32-JDepF7JKP4Ub1NJB7q2lmux4pvkQKatbfWHQqB0_hIhzoaAoN6EALw_wcB
-* Any Cisco Device with a Touch 10 panel or a Dx80. For more information on supported devices visit:\ https://help.webex.com/en-us/n18glho/In-Room-Controls-and-Use-of-an-External-Video-Switch-with-Room-Devices
+* Any Cisco Device with a Touch 10 panel or a Dx80. For more information on supported devices visit:   https://help.webex.com/en-us/n18glho/In-Room-Controls-and-Use-of-an-External-Video-Switch-with-Room-Devices
 
 
 ## Prerequisite
