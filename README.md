@@ -7,7 +7,8 @@
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
-https://user-images.githubusercontent.com/12582569/54210337-4e296700-4505-11e9-92e1-c3cf854d520d.png
+![alt text](https://user-images.githubusercontent.com/12582569/54210337-4e296700-4505-11e9-92e1-c3cf854d520d.png
+)
 
 ## Prerequisite
 * Lorem version: 12.3
