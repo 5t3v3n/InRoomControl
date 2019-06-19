@@ -1,5 +1,5 @@
 //Enter IP Address of Endpoint below
-const ipAddress = "ssh://172.20.10.4"
+const ipAddress = "ssh://172.20.10.2"
 
 const jsxapi = require('jsxapi')
 const xapi = jsxapi.connect(ipAddress, {
