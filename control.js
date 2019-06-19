@@ -1,7 +1,5 @@
 /*
 
-Python Template for Cisco Sample Code.
-
 Copyright (c) 2019 Cisco and/or its affiliates.
 
 This software is licensed to you under the terms of the Cisco Sample
