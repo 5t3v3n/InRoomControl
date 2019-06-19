@@ -229,12 +229,10 @@ xapi.event.on('UserInterface Extensions Widget Action', (event) => {
        if(muted){
          console.log(muted);
          system.audio.mute(false).then(function() {
-           // here comes your code
          });
        }
        else{
          system.audio.mute(true).then(function() {
-           // here comes your code
          });
        }
      });
